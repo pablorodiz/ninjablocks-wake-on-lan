@@ -1,0 +1,26 @@
+{
+  "name": "ninja_wake_on_lan",
+  "version": "0.0.1",
+  "description": "Wake on LAN driver for ninjablocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "ninjablocks",
+    "cpu",
+    "custom",
+    "actuator",
+    "wol"
+  ],
+  "dependencies": {
+  "wake_on_lan": "0.0.3"
+  },
+  "author": {
+    "name":   "Pablo Rodiz Obaya",
+    "email":  "pablorodiz@yahoo.es",
+    "github": "pablorodiz"
+  },
+  "license": "MIT"
+}
