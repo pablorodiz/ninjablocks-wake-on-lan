@@ -1,5 +1,5 @@
 {
-  "name": "ninja_wake_on_lan",
+  "name": "ninjablocks-wake-on-lan",
   "version": "0.0.1",
   "description": "Wake on LAN driver for ninjablocks",
   "main": "index.js",
