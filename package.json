@@ -17,10 +17,6 @@
   "dependencies": {
   "wake_on_lan": "0.0.3"
   },
-  "author": {
-    "name":   "Pablo Rodiz Obaya",
-    "email":  "pablorodiz@yahoo.es",
-    "github": "pablorodiz"
-  },
+  "author": "Pablo Rodiz Obaya",
   "license": "MIT"
 }
